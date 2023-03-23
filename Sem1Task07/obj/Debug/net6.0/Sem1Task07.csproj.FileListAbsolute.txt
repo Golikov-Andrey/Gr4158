@@ -1,0 +1,15 @@
+G:\GB\Gruppa4148\Gr4158\Sem1Task07\bin\Debug\net6.0\Sem1Task07.exe
+G:\GB\Gruppa4148\Gr4158\Sem1Task07\bin\Debug\net6.0\Sem1Task07.deps.json
+G:\GB\Gruppa4148\Gr4158\Sem1Task07\bin\Debug\net6.0\Sem1Task07.runtimeconfig.json
+G:\GB\Gruppa4148\Gr4158\Sem1Task07\bin\Debug\net6.0\Sem1Task07.dll
+G:\GB\Gruppa4148\Gr4158\Sem1Task07\bin\Debug\net6.0\Sem1Task07.pdb
+G:\GB\Gruppa4148\Gr4158\Sem1Task07\obj\Debug\net6.0\Sem1Task07.csproj.AssemblyReference.cache
+G:\GB\Gruppa4148\Gr4158\Sem1Task07\obj\Debug\net6.0\Sem1Task07.GeneratedMSBuildEditorConfig.editorconfig
+G:\GB\Gruppa4148\Gr4158\Sem1Task07\obj\Debug\net6.0\Sem1Task07.AssemblyInfoInputs.cache
+G:\GB\Gruppa4148\Gr4158\Sem1Task07\obj\Debug\net6.0\Sem1Task07.AssemblyInfo.cs
+G:\GB\Gruppa4148\Gr4158\Sem1Task07\obj\Debug\net6.0\Sem1Task07.csproj.CoreCompileInputs.cache
+G:\GB\Gruppa4148\Gr4158\Sem1Task07\obj\Debug\net6.0\Sem1Task07.dll
+G:\GB\Gruppa4148\Gr4158\Sem1Task07\obj\Debug\net6.0\refint\Sem1Task07.dll
+G:\GB\Gruppa4148\Gr4158\Sem1Task07\obj\Debug\net6.0\Sem1Task07.pdb
+G:\GB\Gruppa4148\Gr4158\Sem1Task07\obj\Debug\net6.0\Sem1Task07.genruntimeconfig.cache
+G:\GB\Gruppa4148\Gr4158\Sem1Task07\obj\Debug\net6.0\ref\Sem1Task07.dll
